@@ -2,7 +2,7 @@
 ### Junior Software Engineer | AI & ML Enthusiast | Tech Explorer 🚀  
 
 📍 **Nairobi, Kenya**  
-🌐 **[Portfolio](# https://my-portfolio-lucky-nakolas-projects.vercel.app | ✉️ **luckiesdabwoy@gmail.com**  
+🌐 **Portfolio** | https://my-portfolio-lucky-nakolas-projects.vercel.app | ✉️ **luckiesdabwoy@gmail.com**  
 
 - 🔭 **Currently Focused On:** AI/ML, Full-Stack Development, Open Source  
 - 🎓 **Education:** Diploma in Computer Science  
