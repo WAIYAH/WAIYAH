@@ -52,9 +52,9 @@
 ---
 
 ## 📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![https://www.linkedin.com/in/lucky-nakola-0a657a276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHAX2p28qTyC%2FvO9Iezd0vA%3D%3D](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckiesdabwoy@gmail.com)  
+[![https://wa.me/254715674828](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+[![luckiesdabwoy@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckiesdabwoy@gmail.com)  
 
 > *"Code is poetry, and I’m just getting started."* ✨  
